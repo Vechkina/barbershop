@@ -1,3 +1,3 @@
 # [Многостраничный сайт](https://.github.io/Vechkina/barbershop/)
 
-- Верстка html css + vanilla js (модальные окна, табы, меню)
+- Адаптивная верстка html css + vanilla js (модальные окна, табы, меню)
